@@ -1,6 +1,7 @@
 #Homework 1 Summary of Changes
 
 The project is to refactor the webpage to make it more accessible. The changes made are as follows:
+<<<<<<< HEAD
 
 ##HTML Changes:
 
